@@ -36,6 +36,7 @@
 
 ## Others 
 
+- [tHeInCreDiBlEpRoGrAmMeR/amazing-stars](https://github.com/tHeInCreDiBlEpRoGrAmMeR/amazing-stars) - ⭐️ Nathaniel's list of Starred Repositories
 - [xero/haunted-webring](https://github.com/xero/haunted-webring) - a webring for ghosts
 - [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [CapciGithub/Growtopia-CID-Creator-v3](https://github.com/CapciGithub/Growtopia-CID-Creator-v3) - creating growtopia accounts via github actions.
