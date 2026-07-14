@@ -53,7 +53,7 @@
 
 ## Shell 
 
-- [thegreatsourcerer/pure-bash-bible](https://github.com/thegreatsourcerer/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
 - [math0ne/dotfiles](https://github.com/math0ne/dotfiles) - :computer: Personal dotfiles orchestrated with GNU Stow and Ansible with a healthy splash of Docker
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
