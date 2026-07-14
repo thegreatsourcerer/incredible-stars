@@ -36,6 +36,8 @@
 
 ## Others 
 
+- [rishichitnis007/awesome-github-profile-actions](https://github.com/rishichitnis007/awesome-github-profile-actions) - 😎 A curated list of Awesome github profile actions
+- [rishichitnis007/snk-action-testing](https://github.com/rishichitnis007/snk-action-testing) - Testing
 - [tHeInCreDiBlEpRoGrAmMeR/amazing-stars](https://github.com/tHeInCreDiBlEpRoGrAmMeR/amazing-stars) - ⭐️ Nathaniel's list of Starred Repositories
 - [xero/haunted-webring](https://github.com/xero/haunted-webring) - a webring for ghosts
 - [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
