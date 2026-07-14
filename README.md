@@ -62,6 +62,7 @@
 
 ## Shell 
 
+- [rishichitnis007/dotfiles](https://github.com/rishichitnis007/dotfiles) - My Dotfiles
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
 - [math0ne/dotfiles](https://github.com/math0ne/dotfiles) - :computer: Personal dotfiles orchestrated with GNU Stow and Ansible with a healthy splash of Docker
