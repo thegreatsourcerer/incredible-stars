@@ -204,6 +204,7 @@
 
 ## others 
 
+- [JavascriptGrandMasters/javascript-cheatsheet](https://github.com/JavascriptGrandMasters/javascript-cheatsheet) - A CheatSheet to Javascript
 - [xero/haunted-webring](https://github.com/xero/haunted-webring) - a webring for ghosts
 - [0xErfan/telegram-clone](https://github.com/0xErfan/telegram-clone) - FullStack realtime telegram clone with nextjs & socket.io
 - [github-community-projects/evergreen](https://github.com/github-community-projects/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file
