@@ -11,6 +11,7 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [bash](#bash)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [data-analysis](#data-analysis)
@@ -31,6 +32,7 @@
 - [html](#html)
 - [java](#java)
 - [javascript](#javascript)
+- [learning](#learning)
 - [library](#library)
 - [neovim](#neovim)
 - [neovim-colorscheme](#neovim-colorscheme)
@@ -40,6 +42,7 @@
 - [raspberry-pi](#raspberry-pi)
 - [rust](#rust)
 - [security-tools](#security-tools)
+- [shell](#shell)
 - [typescript](#typescript)
 - [ui](#ui)
 - [vim](#vim)
@@ -75,6 +78,10 @@
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
+
+## bash 
+
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 
 ## css 
 
@@ -167,6 +174,10 @@
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
 - [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log) - A GitHub Action that automatically updates your README file with the latest activity from your GitHub account. Customize the displayed events, set a limit on the number of events, and ignore specific 
 
+## learning 
+
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+
 ## library 
 
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
@@ -181,7 +192,6 @@
 
 ## others 
 
-- [thegreatsourcerer/pure-bash-bible](https://github.com/thegreatsourcerer/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [xero/haunted-webring](https://github.com/xero/haunted-webring) - a webring for ghosts
 - [0xErfan/telegram-clone](https://github.com/0xErfan/telegram-clone) - FullStack realtime telegram clone with nextjs & socket.io
 - [github-community-projects/evergreen](https://github.com/github-community-projects/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file
@@ -211,6 +221,10 @@
 ## security-tools 
 
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
+
+## shell 
+
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 
 ## typescript 
 
