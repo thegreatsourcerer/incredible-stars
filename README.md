@@ -48,6 +48,7 @@
 
 ## Python 
 
+- [python-trio/async_generator](https://github.com/python-trio/async_generator) - Making it easy to write async iterators in Python 3.5
 - [github-community-projects/evergreen](https://github.com/github-community-projects/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file
 - [shabane/liaraPythonSDK](https://github.com/shabane/liaraPythonSDK) - try to write a liara python sdk
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
@@ -71,6 +72,7 @@
 
 ## TypeScript 
 
+- [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [github/vscode-github-actions](https://github.com/github/vscode-github-actions) - GitHub Actions extension for VS Code
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [PragmaticMachineLearning/probly](https://github.com/PragmaticMachineLearning/probly) - 
