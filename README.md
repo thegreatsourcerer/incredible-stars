@@ -72,6 +72,7 @@
 
 ## TypeScript 
 
+- [AzizAK/react-native-detector](https://github.com/AzizAK/react-native-detector) - a screenshot detector for react native
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [github/vscode-github-actions](https://github.com/github/vscode-github-actions) - GitHub Actions extension for VS Code
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
