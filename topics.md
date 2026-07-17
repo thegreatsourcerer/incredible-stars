@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [android](#android)
 - [ansible](#ansible)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
@@ -30,6 +31,7 @@
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [html](#html)
+- [ios](#ios)
 - [java](#java)
 - [javascript](#javascript)
 - [language](#language)
@@ -42,6 +44,7 @@
 - [pentesting](#pentesting)
 - [python](#python)
 - [raspberry-pi](#raspberry-pi)
+- [react-native](#react-native)
 - [rust](#rust)
 - [security-tools](#security-tools)
 - [shell](#shell)
@@ -51,6 +54,10 @@
 - [workflow](#workflow)
 - [youtube](#youtube)
 - [zsh](#zsh)
+
+## android 
+
+- [AzizAK/react-native-detector](https://github.com/AzizAK/react-native-detector) - a screenshot detector for react native
 
 ## ansible 
 
@@ -170,6 +177,10 @@
 
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
 
+## ios 
+
+- [AzizAK/react-native-detector](https://github.com/AzizAK/react-native-detector) - a screenshot detector for react native
+
 ## java 
 
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
@@ -234,6 +245,10 @@
 ## raspberry-pi 
 
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
+
+## react-native 
+
+- [AzizAK/react-native-detector](https://github.com/AzizAK/react-native-detector) - a screenshot detector for react native
 
 ## rust 
 
