@@ -232,6 +232,7 @@
 
 ## others 
 
+- [rishichitnis007/hello-world](https://github.com/rishichitnis007/hello-world) - Hello World in all existing Programming Languages
 - [TheScienceElf/Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - A Minecraft-esque game for the TI 84 CE calculator.
 - [rishichitnis007/dotfiles](https://github.com/rishichitnis007/dotfiles) - My Dotfiles
 - [rishichitnis007/awesome-github-profile-actions](https://github.com/rishichitnis007/awesome-github-profile-actions) - 😎 A curated list of Awesome github profile actions
