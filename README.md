@@ -9,6 +9,7 @@
 - [Go](#go)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [LLVM](#llvm)
 - [Markdown](#markdown)
 - [Others](#others)
 - [Python](#python)
@@ -35,6 +36,10 @@
 ## Jupyter Notebook 
 
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
+
+## LLVM 
+
+- [rishichitnis007/hello-world](https://github.com/rishichitnis007/hello-world) - Hello World in all existing Programming Languages
 
 ## Markdown 
 
