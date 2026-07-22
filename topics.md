@@ -46,6 +46,7 @@
 - [neovim](#neovim)
 - [neovim-colorscheme](#neovim-colorscheme)
 - [others](#others)
+- [parsing](#parsing)
 - [pentesting](#pentesting)
 - [pwa](#pwa)
 - [python](#python)
@@ -265,6 +266,10 @@
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 
+## parsing 
+
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
+
 ## pentesting 
 
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
@@ -275,6 +280,7 @@
 
 ## python 
 
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [python-trio/async_generator](https://github.com/python-trio/async_generator) - Making it easy to write async iterators in Python 3.5
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
