@@ -66,6 +66,7 @@
 
 ## Python 
 
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [python-trio/async_generator](https://github.com/python-trio/async_generator) - Making it easy to write async iterators in Python 3.5
 - [github-community-projects/evergreen](https://github.com/github-community-projects/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file
 - [shabane/liaraPythonSDK](https://github.com/shabane/liaraPythonSDK) - try to write a liara python sdk
