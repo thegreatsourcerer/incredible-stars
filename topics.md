@@ -248,6 +248,7 @@
 
 ## others 
 
+- [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [rishichitnis007/hello-world](https://github.com/rishichitnis007/hello-world) - Hello World in all existing Programming Languages
 - [TheScienceElf/Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - A Minecraft-esque game for the TI 84 CE calculator.
 - [rishichitnis007/dotfiles](https://github.com/rishichitnis007/dotfiles) - My Dotfiles
