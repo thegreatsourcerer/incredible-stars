@@ -48,6 +48,7 @@
 - [others](#others)
 - [parsing](#parsing)
 - [pentesting](#pentesting)
+- [perl](#perl)
 - [pwa](#pwa)
 - [python](#python)
 - [raspberry-pi](#raspberry-pi)
@@ -237,6 +238,7 @@
 
 ## markdown 
 
+- [BlackIQ/markdown](https://github.com/BlackIQ/markdown) - Learn Markdown. Persian and English version.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 
 ## neovim 
@@ -249,6 +251,7 @@
 
 ## others 
 
+- [myrotvorets/set-commit-status-action](https://github.com/myrotvorets/set-commit-status-action) - GitHub Action to set commit status
 - [rishichitnis007/awesome-python-repositories](https://github.com/rishichitnis007/awesome-python-repositories) - A curated list of useful tools for Python
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 - [rishichitnis007/hello-world](https://github.com/rishichitnis007/hello-world) - Hello World in all existing Programming Languages
@@ -275,12 +278,17 @@
 
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 
+## perl 
+
+- [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
+
 ## pwa 
 
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
 
 ## python 
 
+- [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [python-trio/async_generator](https://github.com/python-trio/async_generator) - Making it easy to write async iterators in Python 3.5
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
@@ -304,6 +312,7 @@
 
 ## shell 
 
+- [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 
