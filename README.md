@@ -48,6 +48,7 @@
 
 ## Markdown 
 
+- [BlackIQ/markdown](https://github.com/BlackIQ/markdown) - Learn Markdown. Persian and English version.
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 
 ## Others 
@@ -84,6 +85,7 @@
 
 ## Shell 
 
+- [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
 - [math0ne/dotfiles](https://github.com/math0ne/dotfiles) - :computer: Personal dotfiles orchestrated with GNU Stow and Ansible with a healthy splash of Docker
@@ -91,6 +93,7 @@
 
 ## TypeScript 
 
+- [myrotvorets/set-commit-status-action](https://github.com/myrotvorets/set-commit-status-action) - GitHub Action to set commit status
 - [AzizAK/react-native-detector](https://github.com/AzizAK/react-native-detector) - a screenshot detector for react native
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [github/vscode-github-actions](https://github.com/github/vscode-github-actions) - GitHub Actions extension for VS Code
