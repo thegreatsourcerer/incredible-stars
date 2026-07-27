@@ -14,6 +14,7 @@
 - [LLVM](#llvm)
 - [Markdown](#markdown)
 - [Others](#others)
+- [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -74,8 +75,13 @@
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 
+## PHP 
+
+- [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
+
 ## Python 
 
+- [erfansaberi/cfir-multihop-reasoning](https://github.com/erfansaberi/cfir-multihop-reasoning) - Lightweight Multi-Hop Reasoning for Composed Fashion Image Retrieval: A minimal PyTorch implementation of **Yang & Ma, "Enhanced composed fashion image retrieval with a multi-hop reasoning framework"*
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [python-trio/async_generator](https://github.com/python-trio/async_generator) - Making it easy to write async iterators in Python 3.5
@@ -103,6 +109,7 @@
 
 ## TypeScript 
 
+- [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [benc-uk/workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event
 - [mshick/add-pr-comment](https://github.com/mshick/add-pr-comment) - uses: mshick/add-pr-comment@v3
