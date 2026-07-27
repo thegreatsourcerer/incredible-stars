@@ -7,6 +7,7 @@
 
 - [C](#c)
 - [C++](#c++)
+- [CSS](#css)
 - [Go](#go)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -22,6 +23,7 @@
 
 ## C 
 
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
 
 ## C++ 
@@ -29,8 +31,14 @@
 - [TheScienceElf/Blocks-TI-84](https://github.com/TheScienceElf/Blocks-TI-84) - A Minecraft-esque game for the TI 84 CE calculator.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
+## CSS 
+
+- [Reviewable/Reviewable](https://github.com/Reviewable/Reviewable) - Support for Reviewable
+
 ## Go 
 
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 
 ## JavaScript 
@@ -68,6 +76,7 @@
 
 ## Python 
 
+- [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [python-trio/async_generator](https://github.com/python-trio/async_generator) - Making it easy to write async iterators in Python 3.5
 - [github-community-projects/evergreen](https://github.com/github-community-projects/evergreen) - GitHub Action to enable automated security updates and open a issue/PR in repos in an org that have dependency files but no dependabot.yaml file
@@ -85,6 +94,7 @@
 
 ## Shell 
 
+- [gm3dmo/the-power](https://github.com/gm3dmo/the-power) - The Power exists because documentation without examples is just an API reference, and it's been the industry's biggest productivity killer for decades.
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [neeasade/dotfiles](https://github.com/neeasade/dotfiles) - garden
@@ -93,6 +103,11 @@
 
 ## TypeScript 
 
+- [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
+- [benc-uk/workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event
+- [mshick/add-pr-comment](https://github.com/mshick/add-pr-comment) - uses: mshick/add-pr-comment@v3
+- [DuyetBKU/viz-pacman-github-profile](https://github.com/DuyetBKU/viz-pacman-github-profile) - A GitHub profile visualization tool that renders a real-time Pac-Man style animation based on contribution activity, transforming commit history into an interactive arcade-inspired display.
+- [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands
 - [myrotvorets/set-commit-status-action](https://github.com/myrotvorets/set-commit-status-action) - GitHub Action to set commit status
 - [AzizAK/react-native-detector](https://github.com/AzizAK/react-native-detector) - a screenshot detector for react native
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
