@@ -14,13 +14,16 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [bash](#bash)
+- [c](#c)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [data-analysis](#data-analysis)
+- [data-visualization](#data-visualization)
 - [deno](#deno)
 - [developer-tools](#developer-tools)
+- [devops](#devops)
 - [docker](#docker)
 - [dotfiles](#dotfiles)
 - [emacs](#emacs)
@@ -32,6 +35,7 @@
 - [git](#git)
 - [github](#github)
 - [golang](#golang)
+- [graphql](#graphql)
 - [gui](#gui)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
@@ -42,9 +46,13 @@
 - [language](#language)
 - [learning](#learning)
 - [library](#library)
+- [linux](#linux)
+- [login](#login)
+- [macos](#macos)
 - [markdown](#markdown)
 - [neovim](#neovim)
 - [neovim-colorscheme](#neovim-colorscheme)
+- [opengl](#opengl)
 - [others](#others)
 - [parsing](#parsing)
 - [pentesting](#pentesting)
@@ -59,6 +67,7 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [vim](#vim)
+- [windows](#windows)
 - [workflow](#workflow)
 - [youtube](#youtube)
 - [zsh](#zsh)
@@ -77,6 +86,7 @@
 
 ## api 
 
+- [gm3dmo/the-power](https://github.com/gm3dmo/the-power) - The Power exists because documentation without examples is just an API reference, and it's been the industry's biggest productivity killer for decades.
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 ## artificial-intelligence 
@@ -85,6 +95,7 @@
 
 ## automation 
 
+- [peter-evans/slash-command-dispatch](https://github.com/peter-evans/slash-command-dispatch) - A GitHub action that facilitates "ChatOps" by creating repository dispatch events for slash commands
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 
 ## awesome 
@@ -104,8 +115,13 @@
 
 ## bash 
 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+
+## c 
+
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
 
 ## chrome-extension 
 
@@ -128,6 +144,10 @@
 
 - [PragmaticMachineLearning/probly](https://github.com/PragmaticMachineLearning/probly) - 
 
+## data-visualization 
+
+- [DuyetBKU/viz-pacman-github-profile](https://github.com/DuyetBKU/viz-pacman-github-profile) - A GitHub profile visualization tool that renders a real-time Pac-Man style animation based on contribution activity, transforming commit history into an interactive arcade-inspired display.
+
 ## deno 
 
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
@@ -135,6 +155,10 @@
 ## developer-tools 
 
 - [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is the personalized developer news feed and community. Get the best tech content from 1000+ sources in your browser new tab or on mobile. Free and open source.
+
+## devops 
+
+- [benc-uk/workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event
 
 ## docker 
 
@@ -177,6 +201,8 @@
 
 ## github 
 
+- [benc-uk/workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event
+- [gm3dmo/the-power](https://github.com/gm3dmo/the-power) - The Power exists because documentation without examples is just an API reference, and it's been the industry's biggest productivity killer for decades.
 - [github/vscode-github-actions](https://github.com/github/vscode-github-actions) - GitHub Actions extension for VS Code
 - [pawelborkar/awesome-repos](https://github.com/pawelborkar/awesome-repos) - A curated list of GitHub Repositories full of FREE Resources.
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
@@ -187,6 +213,10 @@
 ## golang 
 
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+
+## graphql 
+
+- [gm3dmo/the-power](https://github.com/gm3dmo/the-power) - The Power exists because documentation without examples is just an API reference, and it's been the industry's biggest productivity killer for decades.
 
 ## gui 
 
@@ -236,6 +266,18 @@
 
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
+## linux 
+
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+
+## login 
+
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
+
+## macos 
+
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+
 ## markdown 
 
 - [BlackIQ/markdown](https://github.com/BlackIQ/markdown) - Learn Markdown. Persian and English version.
@@ -249,8 +291,16 @@
 
 - [xero/miasma.nvim](https://github.com/xero/miasma.nvim) - a fog descends upon your editor ☁  dark color scheme inspired by the woods for vim and neovim
 
+## opengl 
+
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+
 ## others 
 
+- [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
+- [mshick/add-pr-comment](https://github.com/mshick/add-pr-comment) - uses: mshick/add-pr-comment@v3
+- [Reviewable/Reviewable](https://github.com/Reviewable/Reviewable) - Support for Reviewable
+- [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
 - [myrotvorets/set-commit-status-action](https://github.com/myrotvorets/set-commit-status-action) - GitHub Action to set commit status
 - [rishichitnis007/awesome-python-repositories](https://github.com/rishichitnis007/awesome-python-repositories) - A curated list of useful tools for Python
 - [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
@@ -312,6 +362,7 @@
 
 ## shell 
 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -330,6 +381,10 @@
 
 - [xero/miasma.nvim](https://github.com/xero/miasma.nvim) - a fog descends upon your editor ☁  dark color scheme inspired by the woods for vim and neovim
 
+## windows 
+
+- [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
+
 ## workflow 
 
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
@@ -340,6 +395,7 @@
 
 ## zsh 
 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [math0ne/dotfiles](https://github.com/math0ne/dotfiles) - :computer: Personal dotfiles orchestrated with GNU Stow and Ansible with a healthy splash of Docker
 
