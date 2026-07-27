@@ -60,6 +60,7 @@
 - [pwa](#pwa)
 - [python](#python)
 - [raspberry-pi](#raspberry-pi)
+- [react](#react)
 - [react-native](#react-native)
 - [rust](#rust)
 - [security-tools](#security-tools)
@@ -179,6 +180,7 @@
 
 ## framework 
 
+- [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 
 ## game-development 
@@ -250,6 +252,7 @@
 
 ## javascript 
 
+- [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [BlackIQ/Hello-World](https://github.com/BlackIQ/Hello-World) - Hello World in different languages !
 - [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log) - A GitHub Action that automatically updates your README file with the latest activity from your GitHub account. Customize the displayed events, set a limit on the number of events, and ignore specific 
@@ -297,6 +300,8 @@
 
 ## others 
 
+- [erfansaberi/cfir-multihop-reasoning](https://github.com/erfansaberi/cfir-multihop-reasoning) - Lightweight Multi-Hop Reasoning for Composed Fashion Image Retrieval: A minimal PyTorch implementation of **Yang & Ma, "Enhanced composed fashion image retrieval with a multi-hop reasoning framework"*
+- [livewire/livewire](https://github.com/livewire/livewire) - A full-stack framework for Laravel that takes the pain out of building dynamic UIs.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [mshick/add-pr-comment](https://github.com/mshick/add-pr-comment) - uses: mshick/add-pr-comment@v3
 - [Reviewable/Reviewable](https://github.com/Reviewable/Reviewable) - Support for Reviewable
@@ -348,6 +353,10 @@
 
 - [infinition/Bjorn](https://github.com/infinition/Bjorn) - Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential
 
+## react 
+
+- [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
+
 ## react-native 
 
 - [AzizAK/react-native-detector](https://github.com/AzizAK/react-native-detector) - a screenshot detector for react native
@@ -369,6 +378,7 @@
 
 ## typescript 
 
+- [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
