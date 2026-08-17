@@ -314,7 +314,6 @@
 - [rishichitnis007/dotfiles](https://github.com/rishichitnis007/dotfiles) - My Dotfiles
 - [rishichitnis007/awesome-github-profile-actions](https://github.com/rishichitnis007/awesome-github-profile-actions) - 😎 A curated list of Awesome github profile actions
 - [rishichitnis007/snk-action-testing](https://github.com/rishichitnis007/snk-action-testing) - Testing
-- [tHeInCreDiBlEpRoGrAmMeR/amazing-stars](https://github.com/tHeInCreDiBlEpRoGrAmMeR/amazing-stars) - ⭐️ Nathaniel's list of Starred Repositories
 - [JavascriptGrandMasters/javascript-cheatsheet](https://github.com/JavascriptGrandMasters/javascript-cheatsheet) - A CheatSheet to Javascript
 - [xero/haunted-webring](https://github.com/xero/haunted-webring) - a webring for ghosts
 - [0xErfan/telegram-clone](https://github.com/0xErfan/telegram-clone) - FullStack realtime telegram clone with nextjs & socket.io
