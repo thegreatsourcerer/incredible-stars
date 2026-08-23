@@ -57,6 +57,7 @@
 - [parsing](#parsing)
 - [pentesting](#pentesting)
 - [perl](#perl)
+- [portfolio](#portfolio)
 - [pwa](#pwa)
 - [python](#python)
 - [raspberry-pi](#raspberry-pi)
@@ -335,6 +336,10 @@
 ## perl 
 
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
+
+## portfolio 
+
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 
 ## pwa 
 
