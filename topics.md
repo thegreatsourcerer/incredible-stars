@@ -282,7 +282,7 @@
 
 ## markdown 
 
-- [BlackIQ/markdown](https://github.com/BlackIQ/markdown) - Learn Markdown. Persian and English version.
+- [BlackIQ/markdown](https://github.com/BlackIQ/markdown) - Audited | Learn Markdown. Persian and English version.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 
 ## neovim 
