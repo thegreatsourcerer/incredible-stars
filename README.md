@@ -60,7 +60,7 @@
 
 ## Markdown 
 
-- [BlackIQ/markdown](https://github.com/BlackIQ/markdown) - Learn Markdown. Persian and English version.
+- [BlackIQ/markdown](https://github.com/BlackIQ/markdown) - Audited | Learn Markdown. Persian and English version.
 - [JoseDeFreitas/awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
 
 ## Others 
