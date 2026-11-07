@@ -69,6 +69,7 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [vim](#vim)
+- [vscode](#vscode)
 - [windows](#windows)
 - [workflow](#workflow)
 - [youtube](#youtube)
@@ -392,6 +393,10 @@
 ## vim 
 
 - [xero/miasma.nvim](https://github.com/xero/miasma.nvim) - a fog descends upon your editor ☁  dark color scheme inspired by the woods for vim and neovim
+
+## vscode 
+
+- [github/vscode-github-actions](https://github.com/github/vscode-github-actions) - GitHub Actions extension for VS Code
 
 ## windows 
 
